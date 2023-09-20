@@ -9,4 +9,4 @@ The report of the project about Research-and-Implementation-of-DDoS-Attack-Defen
 ## VR Game: Escaping The Room
 The VR Game: Escaping The Room is the final project for the Virtual Reality Content Creation course at Peking University Summer School 2019.
 
-In this project we developed a VR escape room game for HTC Vive using unity.
+In this project we developed a VR escape room game for HTC VIVE using unity.
